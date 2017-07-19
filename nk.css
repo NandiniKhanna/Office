@@ -229,6 +229,11 @@ li{
 	.parallax1{
 		height:80%;
 	}
+	body, html {
+    height: 100%;
+    width:100%;
+		overflow-x:hidden;
+	}
 }
 
 
