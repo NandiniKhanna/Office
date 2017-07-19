@@ -180,6 +180,7 @@ li{
     color:#777;
     background-color:black;
     text-align:justify;
+    padding: 50px 80px;
 }
 #map-container{
     height: 300px;
@@ -229,15 +230,12 @@ li{
 	.parallax1{
 		height:75%;
 	}
-	.btn-fb{
-    background-color: #3b5998;
-    height: 70px;
-		margin-left:20px;
-}
-.btn-li{
-    background-color: #0077B5;
-    height: 70px;
-	margin-left:20px;
+	.final{
+		padding:20px 20px;
+	}
+	#contact .fa {
+    font-size: 2rem;
+    margin-bottom: 1rem;
 }
 }
 
