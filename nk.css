@@ -215,7 +215,13 @@ li{
 #map-container{
     display: none;
 }
-
+.NKC span.border {
+	background-color: transparent;
+	color: #fff;
+	padding: 18px;
+	font-size: 50px;
+	letter-spacing: 13px;
+}
 }
 
 
