@@ -230,7 +230,16 @@ li{
 	.parallax1{
 		height:75%;
 	}
-	
+	.btn-fb{
+    background-color: #3b5998;
+    height: 70px;
+		margin-left:20px;
+}
+.btn-li{
+    background-color: #0077B5;
+    height: 70px;
+	margin-left:20px;
+}
 }
 
 
